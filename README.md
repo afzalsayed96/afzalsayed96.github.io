@@ -1,7 +1,5 @@
 # Hi, I’m Afzal
 
-Product engineering leader focused on SaaS architecture, complex frontend systems, AI-assisted workflows, and developer-first platforms.
-
 I work across React, TypeScript, Next.js, Node.js, Ruby on Rails, product architecture, customer-facing systems, and engineering leadership.
 
 [![GitHub followers](https://img.shields.io/github/followers/afzalsayed96?style=social)](https://github.com/afzalsayed96)
